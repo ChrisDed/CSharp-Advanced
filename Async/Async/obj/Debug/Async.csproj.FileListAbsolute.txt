@@ -1,0 +1,15 @@
+C:\Users\chris\source\repos\C# Advanced\Async\Async\bin\Debug\Async.exe.config
+C:\Users\chris\source\repos\C# Advanced\Async\Async\bin\Debug\Async.exe
+C:\Users\chris\source\repos\C# Advanced\Async\Async\bin\Debug\Async.pdb
+C:\Users\chris\source\repos\C# Advanced\Async\Async\obj\Debug\Async.csprojAssemblyReference.cache
+C:\Users\chris\source\repos\C# Advanced\Async\Async\obj\Debug\MainWindow.g.cs
+C:\Users\chris\source\repos\C# Advanced\Async\Async\obj\Debug\App.g.cs
+C:\Users\chris\source\repos\C# Advanced\Async\Async\obj\Debug\Async_MarkupCompile.cache
+C:\Users\chris\source\repos\C# Advanced\Async\Async\obj\Debug\Async_MarkupCompile.lref
+C:\Users\chris\source\repos\C# Advanced\Async\Async\obj\Debug\MainWindow.baml
+C:\Users\chris\source\repos\C# Advanced\Async\Async\obj\Debug\Async.g.resources
+C:\Users\chris\source\repos\C# Advanced\Async\Async\obj\Debug\Async.Properties.Resources.resources
+C:\Users\chris\source\repos\C# Advanced\Async\Async\obj\Debug\Async.csproj.GenerateResource.cache
+C:\Users\chris\source\repos\C# Advanced\Async\Async\obj\Debug\Async.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\C# Advanced\Async\Async\obj\Debug\Async.exe
+C:\Users\chris\source\repos\C# Advanced\Async\Async\obj\Debug\Async.pdb

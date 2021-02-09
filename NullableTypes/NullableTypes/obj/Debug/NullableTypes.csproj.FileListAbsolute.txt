@@ -1,0 +1,6 @@
+C:\Users\chris\source\repos\C# Advanced\NullableTypes\NullableTypes\bin\Debug\NullableTypes.exe.config
+C:\Users\chris\source\repos\C# Advanced\NullableTypes\NullableTypes\bin\Debug\NullableTypes.exe
+C:\Users\chris\source\repos\C# Advanced\NullableTypes\NullableTypes\bin\Debug\NullableTypes.pdb
+C:\Users\chris\source\repos\C# Advanced\NullableTypes\NullableTypes\obj\Debug\NullableTypes.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\C# Advanced\NullableTypes\NullableTypes\obj\Debug\NullableTypes.exe
+C:\Users\chris\source\repos\C# Advanced\NullableTypes\NullableTypes\obj\Debug\NullableTypes.pdb
